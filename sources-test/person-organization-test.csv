@@ -1,0 +1,3 @@
+entity_a_type,entity_a,entity_b_type,entity_b,startdate,enddate,connection,source
+Person,Tom,Organization,Dunder Mifflin,2018-01-01,2018-06-01,Works for,ahsdf
+Person,John,Organization,Papper Inc,2018-01-01,2018-06-01,Works for,ahsdf

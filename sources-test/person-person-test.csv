@@ -1,0 +1,2 @@
+entity_a_type,entity_a,entity_b_type,entity_b,connection,startdate,enddate,source
+Person,John,Person,Tom,Friend,2018-01-01,2018-06-01,ahsdf
